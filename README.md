@@ -1,4 +1,3 @@
-Hudzilla123
 - 16
 - Java, C/C++, Rust, JavaScript, Python, Lua
 - Working on making DLL's and low level programming
